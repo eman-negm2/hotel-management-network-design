@@ -5,7 +5,7 @@ Enterprise 3-floor Hotel Management Network designed in Cisco Packet Tracer feat
 
 A multi-floor enterprise network simulation built in **Cisco Packet Tracer** (`Hotel_Management_Network_Design.pkt`). The project models a modern 3-story hotel infrastructure with 8 isolated departments, dynamic routing, wireless connectivity, and Layer 2/Layer 3 security hardening.
 
-![Network Topology](topology.png)
+![Network Topology](hotel-management-network/Topology.png)
 
 ## Network Architecture & IP Addressing Plan
 
